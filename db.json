@@ -26,6 +26,8 @@
       "id": 5
     },
     {
+      "nombre": "Sandia",
+      "precio": 3,
       "id": 6
     }
   ]

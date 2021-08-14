@@ -27,7 +27,7 @@ const Productos = () => {
           Hubo un error
         </p>
       ) : null}
-      {cargando ? <p className="text-center">Carganddo...</p> : null}
+      {cargando ? <p className="text-center">Cargando...</p> : null}
       <table className="table table-striped">
         <thead className="bg-primary table-dark">
           <tr>
